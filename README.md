@@ -13,8 +13,8 @@ A few resources to get you started if this is your first Flutter project:
 
 # App Screenshoots
 
-![Screenshot_2020-06-07-13-14-23-173_neo devloper flutterstatemanagment](https://user-images.githubusercontent.com/53689685/83965018-c0802700-a8c1-11ea-9561-23494dae17ce.png)
 ![Screenshot_2020-06-07-13-14-19-917_neo devloper flutterstatemanagment](https://user-images.githubusercontent.com/53689685/83965020-c1b15400-a8c1-11ea-9b95-4d49bdc7009d.png)
+![Screenshot_2020-06-07-13-14-23-173_neo devloper flutterstatemanagment](https://user-images.githubusercontent.com/53689685/83965018-c0802700-a8c1-11ea-9561-23494dae17ce.png)
 
 
 For help getting started with Flutter, view our
